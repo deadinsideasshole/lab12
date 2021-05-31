@@ -1,4 +1,4 @@
-// Copyright 2021 MIX-1 <danilonil1@yandex.ru>
+// Copyright 2021 ivan <ikhonyak@gmail.com>
 
 #ifndef TEMPLATE_PAGECONTAINER_H
 #define TEMPLATE_PAGECONTAINER_H

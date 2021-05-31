@@ -1,4 +1,4 @@
-// Copyright 2021 MIX-1 <danilonil1@yandex.ru>
+// Copyright 2021 ivan <ikhonyak@gmail.com>
 
 #include "Log.h"
 void Log::Write(const std::string_view& message) const {
