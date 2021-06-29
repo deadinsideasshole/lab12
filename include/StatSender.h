@@ -1,4 +1,4 @@
-// Copyright 2021 roman <roman.sekin@mail.ru>
+// Copyright 2021 roman <roman.sekin.90@mail.ru>
 
 #ifndef TEMPLATE_STATSENDER_H
 #define TEMPLATE_STATSENDER_H

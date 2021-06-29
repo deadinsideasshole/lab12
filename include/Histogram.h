@@ -1,4 +1,5 @@
-// Copyright 2021 roman <roman.sekin@mail.ru>
+// Copyright 2021 MIX-1 <danilonil1@yandex.ru>
+
 #ifndef TEMPLATE_HISTOGRAM_H
 #define TEMPLATE_HISTOGRAM_H
 class Histogram{
