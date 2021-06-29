@@ -1,4 +1,4 @@
-// Copyright 2021 ivan <ikhonyak@gmail.com>
+// Copyright roman <roman.sekin@mail.ru>
 
 #include "PageContainer.h"
 

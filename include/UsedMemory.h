@@ -1,4 +1,4 @@
-// Copyright 2021 ivan <ikhonyak@gmail.com>
+// Copyright 2021 roman <roman.sekin@mail.ru>
 
 #ifndef TEMPLATE_USEDMEMORY_H
 #define TEMPLATE_USEDMEMORY_H
